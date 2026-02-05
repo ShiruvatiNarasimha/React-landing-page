@@ -6,8 +6,8 @@ const HeroSection = () => {
       <div className="hero-content ">
         <h1>YOUR FEET DESERVE THE BEST</h1>
         <p>
-          YOUR FEET DESETVE THE BEST AND WE ARE HERE TO HELP YOU WITH OUR SHOES.
-          YOUR FEET DESERVE THE BEST AND WE ARE HERE TO HELP YOU WITH OUR SHOES.
+          YOUR FEET DESETVES THE BEST AND WE ARE HERE TO HELP YOU WITH OUR SHOES.
+          YOUR FEET DESERVES THE BEST AND WE ARE HERE TO HELP YOU WITH OUR SHOES.
         </p>
         <div className="hero-btn">
           <button>Shop Now</button>
